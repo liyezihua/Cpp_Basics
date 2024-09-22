@@ -1,0 +1,4 @@
+﻿  指针.cpp
+C:\Users\Administrator\Source\Repos\复习\指针.cpp(18,30): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\Administrator\Source\Repos\复习\指针.cpp(18,30): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  复习.vcxproj -> C:\Users\Administrator\Source\Repos\复习\Debug\复习.exe
